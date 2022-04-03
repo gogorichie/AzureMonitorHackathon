@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "envPrefixName": {
-      "value": "mog10"
+      "value": "pract"
     },
     "adminUserName": {
-      "value": "vmadmin"
+      "value": "tstadmin"
     },
     "adminUserPass": {
-      "value": "YOUR PASSWORD HERE"
+      "value": "ThisIsABadPassw0rd!"
     }
   }
 }
